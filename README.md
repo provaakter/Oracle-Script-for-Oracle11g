@@ -41,7 +41,7 @@
                           <ul>
                             <li>right click(Add/Remove..) </li>
                             <li>select domain</li>
-                            <li>salekin [pc user name]</li>
+                            <li>prova [pc user name]</li>
                             <li>click 'Add'. Then 'Ok'. That's it.</li>
                           </ul>
                         </li>
